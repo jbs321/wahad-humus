@@ -26,7 +26,7 @@ define('DB_NAME', 'wahad_humus');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Aa123456');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

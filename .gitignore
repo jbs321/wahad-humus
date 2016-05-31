@@ -24,14 +24,3 @@
 .idea/modules.xml
 .idea/wahad-humus.iml
 .idea/workspace.xml
-#wp-config.php
-wp-content/plugins/contact-form-7/
-wp-content/plugins/essential-grid/
-wp-content/plugins/hgr_essentials/
-wp-content/plugins/hgr_vc_extender/
-wp-content/plugins/js_composer/
-wp-content/plugins/revslider/
-wp-content/plugins/woocommerce/
-wp-content/themes/sage/layouts/shop/
-wp-content/upgrade/
-wp-content/uploads/
